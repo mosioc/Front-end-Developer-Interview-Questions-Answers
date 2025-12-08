@@ -920,7 +920,7 @@ const upper = str.toUpperCase(); // str remains 'hello', upper = 'HELLO'
 - Using **Object.freeze()** to make an object immutable.
 
 ```js
-const obj = Object.freeze({ name: 'Alice' });
+const obj = Object.freeze({ name: 'Mehdi' });
 obj.name = 'Bob'; // ignored in strict mode
 ```
 
