@@ -41,10 +41,10 @@ list.addEventListener('click', (e) => {
 
 In JavaScript, the value of `this` depends on how a function is **called**, not where it’s written. It can refer to different things:
 
-- **Global context** → `this` is the global object (or `undefined` in strict mode)
-- **Object method** → `this` is the object
-- **Event handlers** → `this` is the DOM element
-- **Constructor functions / classes** → `this` is the instance created
+- **Global context** -> `this` is the global object (or `undefined` in strict mode)
+- **Object method** -> `this` is the object
+- **Event handlers** -> `this` is the DOM element
+- **Constructor functions / classes** -> `this` is the instance created
 
 One of the biggest changes in ES6 is how **arrow functions** handle `this`.
 
