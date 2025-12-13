@@ -1,12 +1,8 @@
 # Front-end Developer Interview Questions
 
-> This repository contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
-
-> **Note:** Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
-
 > You can read more about this project & its history [here](https://h5bp.org/Front-end-Developer-Interview-Questions/about/).
 
-The original repo contains questions, and I’ll add answers to them from my perspective.
+The original repo contains questions, and I’ll add answers to them from my perspective. Some external links will also be added.
 
 ## Table of Contents
 
@@ -30,7 +26,22 @@ The original repo contains questions, and I’ll add answers to them from my per
   9.1. [Coding Questions: Answers](src/answers/coding-questions-answers.md)
   10. [Fun Questions](src/questions/fun-questions.md)  
   10.1. [Fun Questions: Answers](src/answers/fun-questions-answers.md)
+  11. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) (external link)  
+  11.1 [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)
+  12. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
+  12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)
+  13. [Next.js Questions with Answers](https://www.geeksforgeeks.org/reactjs/next-js-interview-questions-answers/) (external link)  
+  13.1 [Next.js Questions with Answers [2]](https://github.com/mrhrifat/nextjs-interview-questions) (external link)  
+  14. [Web API Questions with Answers](https://www.geeksforgeeks.org/interview-experiences/web-api-interview-questions-and-answers/) (external link)  
+  14.1 [API Design Questions with Answers [2]](https://github.com/Devinterview-io/api-design-interview-questions) (external link)  
+  15. [Databases Questions with Answers](https://github.com/Devinterview-io/databases-interview-questions) (external link)  
+  15.1 [DBMS Questions with Answers [2]](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/) (external link)  
+  16. [NodeJS Questions with Answers](https://www.geeksforgeeks.org/node-js/node-interview-questions-and-answers/) (external link)  
+  16.1 [NodeJS Questions with Answers [2]](https://github.com/Devinterview-io/node-interview-questions) (external link)  
 
+## Interactive Resources
+
+- <https://devinterview.io/>
 
 ## License
 
