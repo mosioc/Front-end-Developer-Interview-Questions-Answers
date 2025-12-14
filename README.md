@@ -27,7 +27,7 @@ The original repo contains questions, and I’ll add answers to them from my per
   10. [Fun Questions](src/questions/fun-questions.md)  
   10.1. [Fun Questions: Answers](src/answers/fun-questions-answers.md)
   11. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) (external link)  
-  11.1 [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)
+  11.1 [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)  
   11.2 [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (external link)
   12. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
   12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)
