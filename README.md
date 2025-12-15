@@ -42,7 +42,8 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 ## Interactive Resources
 
-- <https://devinterview.io/>
+1. [DevInterview](https://devinterview.io/)
+2. [Standfor University CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 
 ## License
 
