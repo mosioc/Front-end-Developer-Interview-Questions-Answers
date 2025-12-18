@@ -6,8 +6,9 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 ## Table of Contents
 
-  0. [Computer Science Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)
-  0.1 [Software Engineering Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)
+  0. [Computer Science Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)  
+  0.1 [Software Engineering Question with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) (external link)  
+  0.2 [OOP Question with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) (external link)  
   1. [General Questions](src/questions/general-questions.md)  
   1.1. [General Questions: Answers](src/answers/general-questions-answers.md)
   2. [HTML Questions](src/questions/html-questions.md)  
@@ -30,7 +31,7 @@ The original repo contains questions, and I’ll add answers to them from my per
   10.1. [Fun Questions: Answers](src/answers/fun-questions-answers.md)
   11. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) (external link)  
   11.1 [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)  
-  11.2 [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (external link)
+  11.2 [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (external link)  
   11.3 [Frontend Architecture Patterns [4]](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) (external link)
   12. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
   12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)
