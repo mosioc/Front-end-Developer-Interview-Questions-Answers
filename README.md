@@ -7,6 +7,7 @@ The original repo contains questions, and I’ll add answers to them from my per
 ## Table of Contents
 
   0. [Computer Science Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)
+  0.1 [Software Engineering Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)
   1. [General Questions](src/questions/general-questions.md)  
   1.1. [General Questions: Answers](src/answers/general-questions-answers.md)
   2. [HTML Questions](src/questions/html-questions.md)  
