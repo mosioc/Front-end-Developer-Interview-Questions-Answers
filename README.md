@@ -47,9 +47,10 @@ The original repo contains questions, and I’ll add answers to them from my per
   17.1 [DSA Questions with Answers [2]](https://www.interviewbit.com/algorithm-interview-questions/) (external link)  
   17.2 [Data Structures Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) (external link)  
   17.3 [Data Structures Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/10-most-important-data-structures-for-coding-interviews/) (external link)  
-  17.4 [Algorithms Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) (external link)  
-  17.5 [Algorithms Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/top-10-algorithms-in-interview-questions/) (external link)  
-  17.6 [Algorithms Questions with Answers [3]](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) (external link)  
+  17.4 [Data Structures Questions with Answers [3]](https://github.com/Devinterview-io/data-structures-interview-questions) (external link)  
+  17.5 [Algorithms Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) (external link)  
+  17.6 [Algorithms Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/top-10-algorithms-in-interview-questions/) (external link)  
+  17.7 [Algorithms Questions with Answers [3]](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) (external link)  
 
 ## Interactive Resources
 
