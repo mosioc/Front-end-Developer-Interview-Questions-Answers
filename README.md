@@ -43,6 +43,9 @@ The original repo contains questions, and I’ll add answers to them from my per
   15.1 [DBMS Questions with Answers [2]](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/) (external link)  
   16. [NodeJS Questions with Answers](https://www.geeksforgeeks.org/node-js/node-interview-questions-and-answers/) (external link)  
   16.1 [NodeJS Questions with Answers [2]](https://github.com/Devinterview-io/node-interview-questions) (external link)  
+  17. [DSA Questions with Answers](https://www.greatfrontend.com/front-end-interview-playbook/algorithms) (external link)  
+  17.1 [Data Structures Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) (external link)  
+  17.2 [Algorithms Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) (external link)  
 
 ## Interactive Resources
 
