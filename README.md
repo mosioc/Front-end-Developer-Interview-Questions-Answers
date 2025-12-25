@@ -35,7 +35,7 @@ The original repo contains questions, and I’ll add answers to them from my per
   11.1 [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)  
   11.2 [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (gist)  
   11.3 [Frontend Architecture Patterns [4]](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) (gist)  
-  11.4 [Frontend System Design Interview [5]](https://www.frontendinterviewhandbook.com/front-end-system-design) (external link) 
+  11.4 [Frontend System Design Interview [5]](https://www.frontendinterviewhandbook.com/front-end-system-design) (external link)   
   11.5 [Frontend System Design Guide [6]](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) (external link) 
   13. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
   12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)
