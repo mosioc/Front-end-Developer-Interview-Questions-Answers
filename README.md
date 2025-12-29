@@ -41,6 +41,7 @@ The original repo contains questions, and I’ll add answers to them from my per
   11.5 [Frontend System Design Guide [6]](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) (external link)  
   11.6 [List of top 500 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) (external link)  
   11.7 [Design Patterns](https://github.com/sudheerj/design-patterns) (external link)  
+  11.8 [Browser Exploration](https://github.com/tmohammad78/browser-exploration) (external link)  
   15. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
   12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)
   16. [Next.js Questions with Answers](https://www.geeksforgeeks.org/reactjs/next-js-interview-questions-answers/) (external link)  
