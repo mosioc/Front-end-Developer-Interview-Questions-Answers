@@ -1,4 +1,4 @@
-cch# Front-end Developer Interview Questions
+# Front-end Developer Interview Questions
 
 > You can read more about this project & its history [here](https://h5bp.org/Front-end-Developer-Interview-Questions/about/).
 
@@ -21,8 +21,8 @@ The original repo contains questions, and I’ll add answers to them from my per
   3.1. [CSS Questions: Answers](src/answers/css-questions-answers.md)
   5. [JS Questions](src/questions/javascript-questions.md)  
   4.1. [JS Questions: Answers](src/answers/js-questions-answers.md)  
-  4.2. [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) (external link)
-  4.3 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+  4.2. [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) (external link)  
+  4.3 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) (external link)    
   7. [Accessibility Questions](https://scottaohara.github.io/accessibility_interview_questions/) (external link)  
   5.1. [Accessibility Questions: Answers](src/answers/accessibility-questions-answers.md)
   8. [Testing Questions](src/questions/testing-questions.md)  
@@ -37,8 +37,8 @@ The original repo contains questions, and I’ll add answers to them from my per
   10.1. [Fun Questions: Answers](src/answers/fun-questions-answers.md)
   13. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) (external link)  
   11.1. [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)  
-  11.2. [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (gist)
-      11.2.1 [React Tips  Tricks](https://www.frontendjoy.com/p/101-react-tips-tricks-for-beginners-to-experts)
+  11.2. [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (gist)  
+      11.2.1 [React Tips  Tricks](https://www.frontendjoy.com/p/101-react-tips-tricks-for-beginners-to-experts) (external link)  
   11.3 [Frontend Architecture Patterns [4]](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) (gist)  
   11.4 [Frontend System Design Interview [5]](https://www.frontendinterviewhandbook.com/front-end-system-design) (external link)   
   11.5 [Frontend System Design Guide [6]](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) (external link)  
@@ -72,10 +72,11 @@ The original repo contains questions, and I’ll add answers to them from my per
   20. [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions) (external link)  
   21. [Vue.js Interview Questions & Answers](https://github.com/sudheerj/vuejs-interview-questions) (external link)  
 
-## Interactive Resources
+## Read More
 
 1. [DevInterview](https://devinterview.io/)
-2. [Stanford University CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
+2. [Stanford University CS146S: The Modern Software Developer](https://themodernsoftware.dev/)  
+3. [Frontend Joy](https://www.frontendjoy.com/)
 
 ## License
 
