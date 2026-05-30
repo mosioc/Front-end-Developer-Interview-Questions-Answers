@@ -64,11 +64,11 @@ The original repo contains questions, and I’ll add answers to them from my per
   17.5 [Algorithms Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) (external link)  
   17.6 [Algorithms Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/top-10-algorithms-in-interview-questions/) (external link)  
   17.7 [Algorithms Questions with Answers [3]](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) (external link)  
-  17.8 [Data Structures & Algorithms Comperhensive Guide](https://github.com/sudheerj/datastructures-algorithms) (external link)  
+  17.8 [Data Structures & Algorithms Comprehensive Guide](https://github.com/sudheerj/datastructures-algorithms) (external link)  
   18. [Git Questions with Answers](https://www.geeksforgeeks.org/git/git-interview-questions-and-answers/) (external link)   
   18.1 [Git Questions with Answers [2]](https://github.com/Devinterview-io/git-interview-questions) (external link)  
   18.2 [DevOps Questions with Answers](https://github.com/NotHarshhaa/DevOps-Interview-Questions) (external link)      
-  18.3 [DevOps Questiosn with Answers [2]](https://www.geeksforgeeks.org/devops/devops-interview-questions/) (external link)   
+  18.3 [DevOps Questions with Answers [2]](https://www.geeksforgeeks.org/devops/devops-interview-questions/) (external link)   
   20. [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions) (external link)  
   21. [Vue.js Interview Questions & Answers](https://github.com/sudheerj/vuejs-interview-questions) (external link)  
 
