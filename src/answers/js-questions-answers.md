@@ -25,7 +25,6 @@ items.forEach((item) => {
 ### **With event delegation (better)**
 
 ```js
-Copy code
 const list = document.querySelector('.item-list');
 
 list.addEventListener('click', (e) => {
