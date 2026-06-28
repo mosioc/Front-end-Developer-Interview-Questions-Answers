@@ -6,80 +6,107 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 ## Table of Contents
 
-  0. [Computer Science Question with Answers](https://www.interviewbit.com/computer-science-interview-questions/) (external link)  
-  0.1 [Software Engineering Question with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) (external link)  
-  0.2 [OOP Question with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) (external link)  
-  0.3 [C++ (Low-level) Cumulative Questions with Answers](https://www.geeksforgeeks.org/cpp/cpp-interview-questions/) (external link)    
-  0.4 [Programming Paradigms](https://www.geeksforgeeks.org/system-design/introduction-of-programming-paradigms/) (external link)   
-  2. [General Questions](src/questions/general-questions.md)  
-  1.1. [General Questions: Answers](src/answers/general-questions-answers.md)  
-  1.2. [70 General Interview Questions and Answers](src/assets/pdfs/70-Toughest-Interview-Questions-and-Answers-Notes-By-Neha-Malhotra.pdf) (pdf)  
-  1.3. [Interview Pattern Cheatsheet Grammar](src/assets/pdfs/interview-pattern-cheatsheet-x.pdf) (pdf)  
-  3. [HTML Questions](src/questions/html-questions.md)  
-  2.1. [HTML Questions: Answers](src/answers/html-questions-answers.md)
-  4. [CSS Questions](src/questions/css-questions.md)  
-  3.1. [CSS Questions: Answers](src/answers/css-questions-answers.md)
-  5. [JS Questions](src/questions/javascript-questions.md)  
-  4.1. [JS Questions: Answers](src/answers/js-questions-answers.md)  
-  4.2. [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) (external link)  
-  4.3 [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) (external link)   
-  4.4 [Top JavaScript Interview Questions](https://github.com/greatfrontend/top-javascript-interview-questions)   
-  7. [Accessibility Questions](https://scottaohara.github.io/accessibility_interview_questions/) (external link)  
-  5.1. [Accessibility Questions: Answers](src/answers/accessibility-questions-answers.md)
-  8. [Testing Questions](src/questions/testing-questions.md)  
-  6.1. [Testing Questions: Answers](src/answers/testing-questions-answers.md)
-  9. [Performance Questions](src/questions/performance-questions.md)  
-  7.1. [Performance Questions: Answers](src/answers/performance-questions-answers.md)
-  10. [Network Questions](src/questions/network-questions.md)  
-  8.1. [Network Questions: Answers](src/answers/network-questions-answers.md)
-  11. [Coding Questions](src/questions/coding-questions.md)  
-  9.1. [Coding Questions: Answers](src/answers/coding-questions-answers.md)
-  12. [Fun Questions](src/questions/fun-questions.md)  
-  10.1. [Fun Questions: Answers](src/answers/fun-questions-answers.md)
-  13. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) (external link)  
-  11.1. [React Questions with Answers [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) (external link)  
-  11.2. [React Concepts and Their JavaScript Equivalents [3]](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) (gist)  
-      11.2.1 [React Tips  Tricks](https://www.frontendjoy.com/p/101-react-tips-tricks-for-beginners-to-experts) (external link)  
-  11.3 [Frontend Architecture Patterns [4]](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) (gist)  
-  11.4 [Frontend System Design Interview [5]](https://www.frontendinterviewhandbook.com/front-end-system-design) (external link)   
-  11.5 [Frontend System Design Guide [6]](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) (external link)  
-  11.6 [List of top 500 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) (external link)  
-  11.7 [Design Patterns](https://github.com/sudheerj/design-patterns) (external link)  
-  11.8 [Deep Dive into Design Patterns](https://refactoring.guru/design-patterns) (external link)  
-  11.9 [Browser Exploration](https://github.com/tmohammad78/browser-exploration) (external link)
-  15. [TS Questions with Answers](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) (external link)  
-  12.1 [TS Questions with Answers [2]](https://github.com/Devinterview-io/typescript-interview-questions) (external link)  
-  12.2 [Top 40 TypeScript Interview Questions and Answers for 2026](https://www.datacamp.com/blog/typescript-interview-questions)  
-  17. [Next.js Questions with Answers](https://www.geeksforgeeks.org/reactjs/next-js-interview-questions-answers/) (external link)  
-  13.1 [Next.js Questions with Answers [2]](https://github.com/mrhrifat/nextjs-interview-questions) (external link)  
-  18. [Web API Questions with Answers](https://www.geeksforgeeks.org/interview-experiences/web-api-interview-questions-and-answers/) (external link)  
-  14.1 [API Design Questions with Answers [2]](https://github.com/Devinterview-io/api-design-interview-questions) (external link)  
-  19. [Databases Questions with Answers](https://github.com/Devinterview-io/databases-interview-questions) (external link)  
-  15.1 [DBMS Questions with Answers [2]](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/) (external link)  
-  20. [NodeJS Questions with Answers](https://www.geeksforgeeks.org/node-js/node-interview-questions-and-answers/) (external link)  
-  16.1 [NodeJS Questions with Answers [2]](https://github.com/Devinterview-io/node-interview-questions) (external link)  
-  21. [DSA Questions with Answers](https://www.greatfrontend.com/front-end-interview-playbook/algorithms) (external link)  
-  17.1 [DSA Questions with Answers [2]](https://www.interviewbit.com/algorithm-interview-questions/) (external link)  
-  17.2 [Data Structures Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) (external link)  
-  17.3 [Data Structures Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/10-most-important-data-structures-for-coding-interviews/) (external link)  
-  17.4 [Data Structures Questions with Answers [3]](https://github.com/Devinterview-io/data-structures-interview-questions) (external link)  
-  17.5 [Algorithms Questions with Answers](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) (external link)  
-  17.6 [Algorithms Questions with Answers [2]](https://www.geeksforgeeks.org/dsa/top-10-algorithms-in-interview-questions/) (external link)  
-  17.7 [Algorithms Questions with Answers [3]](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) (external link)  
-  17.8 [Data Structures & Algorithms Comprehensive Guide](https://github.com/sudheerj/datastructures-algorithms) (external link)  
-  18. [Git Questions with Answers](https://www.geeksforgeeks.org/git/git-interview-questions-and-answers/) (external link)   
-  18.1 [Git Questions with Answers [2]](https://github.com/Devinterview-io/git-interview-questions) (external link)  
-  18.2 [DevOps Questions with Answers](https://github.com/NotHarshhaa/DevOps-Interview-Questions) (external link)      
-  18.3 [DevOps Questions with Answers [2]](https://www.geeksforgeeks.org/devops/devops-interview-questions/) (external link)   
-  20. [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions) (external link)  
-  21. [Vue.js Interview Questions & Answers](https://github.com/sudheerj/vuejs-interview-questions) (external link)  
+### Foundations
+1. [Computer Science Questions with Answers](https://www.interviewbit.com/computer-science-interview-questions/) *(external)*
+2. [Software Engineering Questions with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) *(external)*
+3. [Object-Oriented Programming (OOP) Questions with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) *(external)*
+4. [C++ (Low-Level) Interview Questions](https://www.geeksforgeeks.org/cpp/cpp-interview-questions/) *(external)*
+5. [Programming Paradigms](https://www.geeksforgeeks.org/system-design/introduction-of-programming-paradigms/) *(external)*
 
+### General Interview
+6. [General Questions](src/questions/general-questions.md)
+   - [General Questions: Answers](src/answers/general-questions-answers.md)
+   - [70 General Interview Questions and Answers](src/assets/pdfs/70-Toughest-Interview-Questions-and-Answers-Notes-By-Neha-Malhotra.pdf) *(PDF)*
+   - [Interview Pattern Cheatsheet Grammar](src/assets/pdfs/interview-pattern-cheatsheet-x.pdf) *(PDF)*
+
+### Web Fundamentals
+7. [HTML Questions](src/questions/html-questions.md)
+   - [HTML Questions: Answers](src/answers/html-questions-answers.md)
+
+8. [CSS Questions](src/questions/css-questions.md)
+   - [CSS Questions: Answers](src/answers/css-questions-answers.md)
+
+9. [JavaScript Questions](src/questions/javascript-questions.md)
+   - [JavaScript Questions: Answers](src/answers/js-questions-answers.md)
+   - [1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) *(external)*
+   - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) *(external)*
+   - [Top JavaScript Interview Questions](https://github.com/greatfrontend/top-javascript-interview-questions) *(external)*
+
+10. [TypeScript Questions](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) *(external)*
+    - [TypeScript Questions [2]](https://github.com/Devinterview-io/typescript-interview-questions) *(external)*
+    - [Top 40 TypeScript Interview Questions (2026)](https://www.datacamp.com/blog/typescript-interview-questions)
+
+11. [Web API Questions](https://www.geeksforgeeks.org/interview-experiences/web-api-interview-questions-and-answers/) *(external)*
+    - [API Design Questions](https://github.com/Devinterview-io/api-design-interview-questions) *(external)*
+
+12. [Accessibility Questions](https://scottaohara.github.io/accessibility_interview_questions/) *(external)*
+    - [Accessibility Questions: Answers](src/answers/accessibility-questions-answers.md)
+
+13. [Performance Questions](src/questions/performance-questions.md)
+    - [Performance Questions: Answers](src/answers/performance-questions-answers.md)
+
+14. [Network Questions](src/questions/network-questions.md)
+    - [Network Questions: Answers](src/answers/network-questions-answers.md)
+
+### React Ecosystem
+15. [React Questions with Answers](https://www.geeksforgeeks.org/reactjs/react-interview-questions/) *(external)*
+    - [React Questions [2]](https://github.com/greatfrontend/top-reactjs-interview-questions) *(external)*
+    - [React Concepts and Their JavaScript Equivalents](https://gist.github.com/mosioc/8e44b673acbfc3ef98b4047eb917a365) *(Gist)*
+    - [101 React Tips & Tricks](https://www.frontendjoy.com/p/101-react-tips-tricks-for-beginners-to-experts) *(external)*
+    - [500 React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) *(external)*
+
+16. [Next.js Questions with Answers](https://www.geeksforgeeks.org/reactjs/next-js-interview-questions-answers/) *(external)*
+    - [Next.js Questions [2]](https://github.com/mrhrifat/nextjs-interview-questions) *(external)*
+
+17. [Angular Interview Questions](https://github.com/sudheerj/angular-interview-questions) *(external)*
+
+18. [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) *(external)*
+
+### Backend
+19. [Node.js Questions](https://www.geeksforgeeks.org/node-js/node-interview-questions-and-answers/) *(external)*
+    - [Node.js Questions [2]](https://github.com/Devinterview-io/node-interview-questions) *(external)*
+
+20. [Database Questions](https://github.com/Devinterview-io/databases-interview-questions) *(external)*
+    - [DBMS Questions](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/) *(external)*
+
+### Frontend Architecture & Design
+21. [Frontend Architecture Patterns](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) *(Gist)*
+22. [Frontend System Design Interview](https://www.frontendinterviewhandbook.com/front-end-system-design) *(external)*
+23. [Frontend System Design Guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) *(external)*
+24. [Design Patterns](https://github.com/sudheerj/design-patterns) *(external)*
+25. [Deep Dive into Design Patterns](https://refactoring.guru/design-patterns) *(external)*
+26. [Browser Exploration](https://github.com/tmohammad78/browser-exploration) *(external)*
+
+### Testing & Coding
+27. [Testing Questions](src/questions/testing-questions.md)
+    - [Testing Questions: Answers](src/answers/testing-questions-answers.md)
+
+28. [Coding Questions](src/questions/coding-questions.md)
+    - [Coding Questions: Answers](src/answers/coding-questions-answers.md)
+
+### Data Structures & Algorithms
+29. [DSA Questions](https://www.greatfrontend.com/front-end-interview-playbook/algorithms) *(external)*
+    - [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/) *(external)*
+    - [Data Structures Questions](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) *(external)*
+    - [Important Data Structures](https://www.geeksforgeeks.org/dsa/10-most-important-data-structures-for-coding-interviews/) *(external)*
+    - [Data Structures Questions [2]](https://github.com/Devinterview-io/data-structures-interview-questions) *(external)*
+    - [Algorithms Questions](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) *(external)*
+    - [Top Algorithms](https://www.geeksforgeeks.org/dsa/top-10-algorithms-in-interview-questions/) *(external)*
+    - [Top 100 DSA Questions](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) *(external)*
+    - [Comprehensive DSA Guide](https://github.com/sudheerj/datastructures-algorithms) *(external)*
+
+### Development Tools
+30. [Git Questions](https://www.geeksforgeeks.org/git/git-interview-questions-and-answers/) *(external)*
+    - [Git Questions [2]](https://github.com/Devinterview-io/git-interview-questions) *(external)*
+
+31. [DevOps Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions) *(external)*
+    - [DevOps Questions [2]](https://www.geeksforgeeks.org/devops/devops-interview-questions/) *(external)*
+
+### Miscellaneous
+32. [Fun Questions](src/questions/fun-questions.md)
+    - [Fun Questions: Answers](src/answers/fun-questions-answers.md)
+   
 ## Read More
-
 1. [DevInterview](https://devinterview.io/)
-2. [Stanford University CS146S: The Modern Software Developer](https://themodernsoftware.dev/)  
+2. [Stanford University CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
 3. [Frontend Joy](https://www.frontendjoy.com/)
-
-## License
-
-[Copyright (c) Contributors of the Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
