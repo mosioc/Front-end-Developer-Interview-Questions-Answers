@@ -34,8 +34,8 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 10. [TypeScript Questions](https://www.geeksforgeeks.org/typescript/typescript-interview-questions/) *(external)*
     - [TypeScript Questions [2]](https://github.com/Devinterview-io/typescript-interview-questions) *(external)*
-    - [Top 40 TypeScript Interview Questions (2026)](https://www.datacamp.com/blog/typescript-interview-questions)
-
+    - [Top 40 TypeScript Interview Questions (2026)](https://www.datacamp.com/blog/typescript-interview-questions) *(external)*  
+    - [Top TypeScript Interview Questions](https://mimo.org/blog/typescript-interview-questions) *(external)*  
 11. [Web API Questions](https://www.geeksforgeeks.org/interview-experiences/web-api-interview-questions-and-answers/) *(external)*
     - [API Design Questions](https://github.com/Devinterview-io/api-design-interview-questions) *(external)*
 
