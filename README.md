@@ -80,7 +80,8 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 ### Testing & Coding
 27. [Testing Questions](src/questions/testing-questions.md)
-    - [Testing Questions: Answers](src/answers/testing-questions-answers.md)
+    - [Testing Questions: Answers](src/answers/testing-questions-answers.md) 
+    - [Frontend Testing Interview Questions for Freshers: 30 Must-Know](https://www.greatfrontend.com/blog/frontend-testing-interview-questions-for-freshers)  
 
 28. [Coding Questions](src/questions/coding-questions.md)
     - [Coding Questions: Answers](src/answers/coding-questions-answers.md)
