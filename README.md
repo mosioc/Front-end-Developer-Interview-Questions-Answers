@@ -9,7 +9,7 @@ The original repo contains questions, and I’ll add answers to them from my per
 ### Foundations
 1. [Computer Science Questions with Answers](https://www.interviewbit.com/computer-science-interview-questions/) *(external)*
 2. [Software Engineering Questions with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) *(external)*
-3. [Object-Oriented Programming (OOP) Questions with Answers](https://www.geeksforgeeks.org/software-engineering/software-engineering-interview-questions-and-answers/) *(external)*
+3. [Object-Oriented Programming (OOP) Questions with Answers](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/) *(external)*
 4. [C++ (Low-Level) Interview Questions](https://www.geeksforgeeks.org/cpp/cpp-interview-questions/) *(external)*
 5. [Programming Paradigms](https://www.geeksforgeeks.org/system-design/introduction-of-programming-paradigms/) *(external)*
 
