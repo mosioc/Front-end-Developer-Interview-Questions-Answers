@@ -71,11 +71,12 @@ The original repo contains questions, and I’ll add answers to them from my per
 
 ### Frontend Architecture & Design
 21. [Frontend Architecture Patterns](https://gist.github.com/mosioc/d2f7fd3c7ef2b32a198fa6e693b74faa) *(Gist)*
-22. [Frontend System Design Interview](https://www.frontendinterviewhandbook.com/front-end-system-design) *(external)*
-23. [Frontend System Design Guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) *(external)*
-24. [Design Patterns](https://github.com/sudheerj/design-patterns) *(external)*
-25. [Deep Dive into Design Patterns](https://refactoring.guru/design-patterns) *(external)*
-26. [Browser Exploration](https://github.com/tmohammad78/browser-exploration) *(external)*
+22. [Front End Developer Interview Questions](https://www.interviewbit.com/front-end-developer-interview-questions/) *(external)*  
+23. [Frontend System Design Interview](https://www.frontendinterviewhandbook.com/front-end-system-design) *(external)*  
+24. [Frontend System Design Guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/) *(external)*
+25. [Design Patterns](https://github.com/sudheerj/design-patterns) *(external)*
+26. [Deep Dive into Design Patterns](https://refactoring.guru/design-patterns) *(external)*
+27. [Browser Exploration](https://github.com/tmohammad78/browser-exploration) *(external)*
 
 ### Testing & Coding
 27. [Testing Questions](src/questions/testing-questions.md)
