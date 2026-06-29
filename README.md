@@ -87,7 +87,8 @@ The original repo contains questions, and I’ll add answers to them from my per
 ### Data Structures & Algorithms
 29. [DSA Questions](https://www.greatfrontend.com/front-end-interview-playbook/algorithms) *(external)*
     - [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/) *(external)*
-    - [Data Structures Questions](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) *(external)*
+    - [Data Structures Questions](https://www.geeksforgeeks.org/dsa/commonly-asked-data-structure-interview-questions-set-1/) *(external)*  
+    - [LMNs (Last Minute Notes) Algorithms](https://www.geeksforgeeks.org/dsa/lmns-algorithms-gq/) *(external)*    
     - [Important Data Structures](https://www.geeksforgeeks.org/dsa/10-most-important-data-structures-for-coding-interviews/) *(external)*
     - [Data Structures Questions [2]](https://github.com/Devinterview-io/data-structures-interview-questions) *(external)*
     - [Algorithms Questions](https://www.geeksforgeeks.org/dsa/commonly-asked-algorithm-interview-questions-set-1/) *(external)*
